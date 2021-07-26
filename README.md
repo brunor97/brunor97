@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @brunor97, a front-end Engineer from Portugal
-- 👀  I'm interested in travelling, gaming(mostly RPGs / anything history driven) and music (Metal & EDM mostly) 
-- 🌱 I’m currently learning Vue.JS
-- 💞️ I’m looking to collaborate on any FOSS project that catches my eye
+- 👀  I'm interested in travelling, gaming(mostly RPGs / anything history driven) and music (Metal, techno and weirder stuff) 
+- 🌱 I’m currently learning Vue.JS and have been working mostly with React for the past 2 years
 - 📫 How to reach me: right here!
 
 <!---
